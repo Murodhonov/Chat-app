@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002291875976",
+    "project_id": "mychatgram2022",
+    "storage_bucket": "mychatgram2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002291875976:android:1ed10b878df2cbaed48f3d",
+        "android_client_info": {
+          "package_name": "uz.umarxon.chatgram2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002291875976-p5p375ffkc1o764u3v843o54700h7cq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2fyWcaBB5wBFgiEsVUC8ZPBjxe91zAuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002291875976-p5p375ffkc1o764u3v843o54700h7cq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

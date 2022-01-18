@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn_sign_google"
+        android:layout_width="200sp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/white"
+        android:text="Google Authentication"
+        android:textAllCaps="false"
+        android:textColor="@color/blue" />
+
+    <Button
+        android:id="@+id/btn_phone"
+        android:layout_width="200sp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/white"
+        android:text="Phone Authentication"
+        android:textAllCaps="false"
+        android:textColor="@color/blue" />
+
+</LinearLayout>
